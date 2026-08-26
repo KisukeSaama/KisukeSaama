@@ -76,7 +76,7 @@ Aujourd'hui, je construis des applications web, des APIs REST, des interfaces Re
 
 Projet personnel de tri et renommage de fichiers vidéo, conçu avec un cahier des charges complet et une forte assistance IA.
 
-`Product design` `Workflow` `JavaFX` `TheTVDB API` `IA générative`
+`Product design` `Workflow` `JavaFX` `TheTMDB API` `IA générative`
 
 ### Overly
 
