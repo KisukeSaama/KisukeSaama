@@ -88,10 +88,7 @@ Interface web React pour une landing page et un dashboard de gestion de widgets,
 
 ## En ce moment
 
-- Recherche d'une alternance de 14 mois à partir de septembre 2026.
-- Rythme : 6 semaines en entreprise / 2 semaines à l'école.
-- Formation intensive par projets à la Web@cadémie by EPITECH.
-- Objectif : rejoindre une équipe qui valorise le code propre, les tests et l'amélioration continue.
+- Alternance dans une startup en création d'agent IA
 
 ---
 
