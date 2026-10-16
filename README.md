@@ -6,7 +6,6 @@
 
 <img src="https://img.shields.io/badge/Alternance-Septembre%202026-F97316?style=for-the-badge&amp;labelColor=111117&amp;color=F97316&amp;v=3" alt="Recherche alternance septembre 2026" />
 <img src="https://img.shields.io/badge/Focus-Full--stack%20web-FB923C?style=for-the-badge&amp;labelColor=111117&amp;color=FB923C&amp;v=3" alt="Focus full-stack web" />
-<img src="https://img.shields.io/badge/Rythme-6%20semaines%20%2F%202%20semaines-1F2937?style=for-the-badge&amp;labelColor=0A0A0E&amp;color=1F2937&amp;v=4" alt="Rythme alternance 6 semaines entreprise 2 semaines école" />
 
 </div>
 
